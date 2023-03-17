@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9DEB7666-6480-45F9-9141-FF03CE2B6E3D}</ProjectGuid>
+    <ProjectGuid>{7AF9B7C3-38D1-40B5-B7A6-B9AC6EF868E7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleNiconicoDocumentAnalyzer</RootNamespace>
-    <AssemblyName>ConsoleNiconicoDocumentAnalyzer</AssemblyName>
+    <RootNamespace>ConsoleAppNiconicoDocumentAnalyzer</RootNamespace>
+    <AssemblyName>ConsoleAppNiconicoDocumentAnalyzer</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

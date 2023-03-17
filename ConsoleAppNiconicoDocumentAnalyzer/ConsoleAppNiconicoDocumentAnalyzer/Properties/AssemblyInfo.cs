@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // アセンブリに関する一般情報は以下の属性セットをとおして制御されます。
 // 制御されます。アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更します。
-[assembly: AssemblyTitle("ConsoleNiconicoDocumentAnalyzer")]
+[assembly: AssemblyTitle("ConsoleAppNiconicoDocumentAnalyzer")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ConsoleNiconicoDocumentAnalyzer")]
+[assembly: AssemblyProduct("ConsoleAppNiconicoDocumentAnalyzer")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // このプロジェクトが COM に公開される場合、次の GUID が typelib の ID になります
-[assembly: Guid("9deb7666-6480-45f9-9141-ff03ce2b6e3d")]
+[assembly: Guid("7af9b7c3-38d1-40b5-b7a6-b9ac6ef868e7")]
 
 // アセンブリのバージョン情報は次の 4 つの値で構成されています:
 //
