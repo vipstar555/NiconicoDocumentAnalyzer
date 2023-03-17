@@ -1,0 +1,7 @@
+C:\Users\daiki\Source\Repos\NiconicoDocumentAnalyzer\ConsoleNiconicoDocumentAnalyzer\bin\Debug\ConsoleNiconicoDocumentAnalyzer.exe.config
+C:\Users\daiki\Source\Repos\NiconicoDocumentAnalyzer\ConsoleNiconicoDocumentAnalyzer\bin\Debug\ConsoleNiconicoDocumentAnalyzer.exe
+C:\Users\daiki\Source\Repos\NiconicoDocumentAnalyzer\ConsoleNiconicoDocumentAnalyzer\bin\Debug\ConsoleNiconicoDocumentAnalyzer.pdb
+C:\Users\daiki\Source\Repos\NiconicoDocumentAnalyzer\ConsoleNiconicoDocumentAnalyzer\obj\Debug\ConsoleNiconicoDocumentAnalyzer.csproj.AssemblyReference.cache
+C:\Users\daiki\Source\Repos\NiconicoDocumentAnalyzer\ConsoleNiconicoDocumentAnalyzer\obj\Debug\ConsoleNiconicoDocumentAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\daiki\Source\Repos\NiconicoDocumentAnalyzer\ConsoleNiconicoDocumentAnalyzer\obj\Debug\ConsoleNiconicoDocumentAnalyzer.exe
+C:\Users\daiki\Source\Repos\NiconicoDocumentAnalyzer\ConsoleNiconicoDocumentAnalyzer\obj\Debug\ConsoleNiconicoDocumentAnalyzer.pdb
